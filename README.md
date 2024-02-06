@@ -19,6 +19,5 @@
 
 - Team Members:
 
-  -
-  -
-  -
+  - Samuel
+  - Tetiana
