@@ -1,11 +1,22 @@
-In this project, we aim to predict the evolution of prices of a house and the factors that will impact that evolution.
+# House-Price-Prediction
 
-To achieve that, we will use the following technologies:
-    -Python
-        To do the EDA, data cleaning, data pre-processing and then apply the machine learning.
+- About this project:
+  
+   - This project is part of the Ironhack Data Analytics Bootcamp. As a mid-bootcamp project, the focus is to apply and show the skills that we have learned until now.
 
-    -SQL
-        To create a database with the .csv file as a base. Then use it to run different queries to get specific information.
+- Objectives:
 
-    -Tableau
-        To create a dashboard with the plots and information that will led us to easy to understand data and succesful presentation.
+   - The project will be centered around the idea predicting the price of a house, using information from houses sold from May 2014 to May 2015, by applying a regression model.
+  
+   - Apart from that main goal, we will also check what are the features are responsible for houses with a market value of 600k$ and upwards using BI.
+  
+   - To end everything, we'll make use of SQL to create a database and get some insights on the needs of a fictional client.
+
+- Technologies used:
+  
+   - For this project we will work with Python and mainly the libraries pandas, matplotlib, seaborn and scikit-learn. Also, we will use MySQL and Tableau.
+
+- Team Members:
+
+  - Samuel
+  - Tetiana
