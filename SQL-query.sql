@@ -102,7 +102,7 @@ GROUP BY `condition`;
 SELECT *
 FROM house_data
 WHERE bedrooms IN (3, 4)
-  AND bathrooms > 3
+  AND bathrooms >= 3
   AND floors = 1
   AND waterfront = 0
   AND `condition` >= 3
