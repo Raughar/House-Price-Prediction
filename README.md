@@ -6,8 +6,7 @@
 
 - Objectives:
 
-   - The project will be centered around the idea predicting the price of a house, using information from houses sold from May 2014 to May 2015, by applying a     
-    regression model.
+   - The project will be centered around the idea predicting the price of a house, using information from houses sold from May 2014 to May 2015, by applying a regression model.
   
    - Apart from that main goal, we will also check what are the features are responsible for houses with a market value of 600k$ and upwards using BI.
   
